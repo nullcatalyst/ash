@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Added `VK_EXT_extended_dynamic_state2` device extension (#572)
 - Added conversions from `Extent2D` to `Extent3D` and `Rect2D` (#557)
 
 ## [0.35.1] - 2022-01-18
